@@ -1,4 +1,4 @@
-package String.Easy;
+package String.Medium;
 
 public class RotateString {
     public static void main(String[] args) {
