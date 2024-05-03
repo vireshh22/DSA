@@ -1,4 +1,4 @@
-package LinkedList.Singly;
+
 
 class Node{
     int data;
